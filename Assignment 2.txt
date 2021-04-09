@@ -1,0 +1,12 @@
+GIVEN SNIPPET:
+int a = 1,b=1;
+ while(b<=n)
+{ 
+  a++; 
+  b+=a;
+  cout<<"HI Coders"<<endl;
+}
+
+
+
+ANSWER:0(log n)
